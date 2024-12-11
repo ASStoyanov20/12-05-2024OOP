@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F24C72FC-717E-499D-B192-27BBF6E2C978}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|d:\\jetbrainsrider\\12-05-2024oop\\hrmanagement\\hrmanagement.dataaccess\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24C72FC-717E-499D-B192-27BBF6E2C978}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|solutionrelative:hrmanagement.dataaccess\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24C72FC-717E-499D-B192-27BBF6E2C978}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|d:\\jetbrainsrider\\12-05-2024oop\\hrmanagement\\hrmanagement.dataaccess\\repository\\base\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24C72FC-717E-499D-B192-27BBF6E2C978}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|solutionrelative:hrmanagement.dataaccess\\repository\\base\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24C72FC-717E-499D-B192-27BBF6E2C978}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|d:\\jetbrainsrider\\12-05-2024oop\\hrmanagement\\hrmanagement.dataaccess\\repository\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24C72FC-717E-499D-B192-27BBF6E2C978}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|solutionrelative:hrmanagement.dataaccess\\repository\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24C72FC-717E-499D-B192-27BBF6E2C978}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|d:\\jetbrainsrider\\12-05-2024oop\\hrmanagement\\hrmanagement.dataaccess\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24C72FC-717E-499D-B192-27BBF6E2C978}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|solutionrelative:hrmanagement.dataaccess\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24C72FC-717E-499D-B192-27BBF6E2C978}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|d:\\jetbrainsrider\\12-05-2024oop\\hrmanagement\\hrmanagement.dataaccess\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24C72FC-717E-499D-B192-27BBF6E2C978}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|solutionrelative:hrmanagement.dataaccess\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24C72FC-717E-499D-B192-27BBF6E2C978}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|d:\\jetbrainsrider\\12-05-2024oop\\hrmanagement\\hrmanagement.dataaccess\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24C72FC-717E-499D-B192-27BBF6E2C978}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|solutionrelative:hrmanagement.dataaccess\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24C72FC-717E-499D-B192-27BBF6E2C978}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|d:\\jetbrainsrider\\12-05-2024oop\\hrmanagement\\hrmanagement.dataaccess\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24C72FC-717E-499D-B192-27BBF6E2C978}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|solutionrelative:hrmanagement.dataaccess\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24C72FC-717E-499D-B192-27BBF6E2C978}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|d:\\jetbrainsrider\\12-05-2024oop\\hrmanagement\\hrmanagement.dataaccess\\data\\hrmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24C72FC-717E-499D-B192-27BBF6E2C978}|HrManagement.DataAccess\\HrManagement.DataAccess.csproj|solutionrelative:hrmanagement.dataaccess\\data\\hrmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90687358-22A1-4A9D-AE37-AEE1C5D1FBFA}|HrManagement\\HrManagement.csproj|d:\\jetbrainsrider\\12-05-2024oop\\hrmanagement\\hrmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90687358-22A1-4A9D-AE37-AEE1C5D1FBFA}|HrManagement\\HrManagement.csproj|solutionrelative:hrmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement.DataAccess\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HrManagement.DataAccess\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement.DataAccess\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "HrManagement.DataAccess\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:44:31.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement.DataAccess\\Repository\\Base\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "HrManagement.DataAccess\\Repository\\Base\\IGenericRepository.cs",
+              "ToolTip": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement.DataAccess\\Repository\\Base\\IGenericRepository.cs",
+              "RelativeToolTip": "HrManagement.DataAccess\\Repository\\Base\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:44:29.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement.DataAccess\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "HrManagement.DataAccess\\Models\\Project.cs",
+              "ToolTip": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement.DataAccess\\Models\\Project.cs",
+              "RelativeToolTip": "HrManagement.DataAccess\\Models\\Project.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:44:23.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement.DataAccess\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "HrManagement.DataAccess\\Models\\Employee.cs",
+              "ToolTip": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement.DataAccess\\Models\\Employee.cs",
+              "RelativeToolTip": "HrManagement.DataAccess\\Models\\Employee.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:44:21.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement.DataAccess\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "HrManagement.DataAccess\\Models\\Department.cs",
+              "ToolTip": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement.DataAccess\\Models\\Department.cs",
+              "RelativeToolTip": "HrManagement.DataAccess\\Models\\Department.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:44:16.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement.DataAccess\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "HrManagement.DataAccess\\Models\\Assignment.cs",
+              "ToolTip": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement.DataAccess\\Models\\Assignment.cs",
+              "RelativeToolTip": "HrManagement.DataAccess\\Models\\Assignment.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:43:46.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HrManagementDbContext.cs",
+              "DocumentMoniker": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement.DataAccess\\Data\\HrManagementDbContext.cs",
+              "RelativeDocumentMoniker": "HrManagement.DataAccess\\Data\\HrManagementDbContext.cs",
+              "ToolTip": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement.DataAccess\\Data\\HrManagementDbContext.cs",
+              "RelativeToolTip": "HrManagement.DataAccess\\Data\\HrManagementDbContext.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:43:39.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement\\Program.cs",
+              "RelativeDocumentMoniker": "HrManagement\\Program.cs",
+              "ToolTip": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement\\Program.cs",
+              "RelativeToolTip": "HrManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:43:35.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement.DataAccess\\Repository\\Base\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "HrManagement.DataAccess\\Repository\\Base\\BaseRepository.cs",
+              "ToolTip": "D:\\JetBrainsRider\\12-05-2024OOP\\HrManagement\\HrManagement.DataAccess\\Repository\\Base\\BaseRepository.cs",
+              "RelativeToolTip": "HrManagement.DataAccess\\Repository\\Base\\BaseRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:43:31.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
